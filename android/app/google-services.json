@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054195578780",
+    "project_id": "pendaftaran-siswa-5d223",
+    "storage_bucket": "pendaftaran-siswa-5d223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054195578780:android:ff8d6a95035fb954753a59",
+        "android_client_info": {
+          "package_name": "com.example.pendaftaran_siswa_smktag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054195578780-ddvqnpvtfssfo3iprehorfh46feo91p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pendaftaran_siswa_smktag",
+            "certificate_hash": "dd43300db306769a891849643cbfef14324eb8d1"
+          }
+        },
+        {
+          "client_id": "1054195578780-g9bi6cs37ikonq7j42n2aoiuqtjlds8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGoprSqHCggS2Ne5DgkmfrzTBcvccCGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054195578780-g9bi6cs37ikonq7j42n2aoiuqtjlds8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
